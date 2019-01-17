@@ -1,0 +1,9 @@
+C:\Users\Jerry\Desktop\ThreadTest\ThreadTest\bin\Debug\ThreadTest.exe
+C:\Users\Jerry\Desktop\ThreadTest\ThreadTest\bin\Debug\ThreadTest.pdb
+C:\Users\Jerry\Desktop\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csprojAssemblyReference.cache
+C:\Users\Jerry\Desktop\ThreadTest\ThreadTest\obj\Debug\ThreadTest.Form1.resources
+C:\Users\Jerry\Desktop\ThreadTest\ThreadTest\obj\Debug\ThreadTest.Properties.Resources.resources
+C:\Users\Jerry\Desktop\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csproj.GenerateResource.cache
+C:\Users\Jerry\Desktop\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\ThreadTest\ThreadTest\obj\Debug\ThreadTest.exe
+C:\Users\Jerry\Desktop\ThreadTest\ThreadTest\obj\Debug\ThreadTest.pdb
